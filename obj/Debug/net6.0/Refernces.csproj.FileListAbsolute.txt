@@ -1,0 +1,14 @@
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.AssemblyInfoInputs.cache
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.AssemblyInfo.cs
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.csproj.CoreCompileInputs.cache
+C:\Users\KennyWilson\source\repos\Refernces\bin\Debug\net6.0\Refernces.exe
+C:\Users\KennyWilson\source\repos\Refernces\bin\Debug\net6.0\Refernces.deps.json
+C:\Users\KennyWilson\source\repos\Refernces\bin\Debug\net6.0\Refernces.runtimeconfig.json
+C:\Users\KennyWilson\source\repos\Refernces\bin\Debug\net6.0\Refernces.dll
+C:\Users\KennyWilson\source\repos\Refernces\bin\Debug\net6.0\Refernces.pdb
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.dll
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\refint\Refernces.dll
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.pdb
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\Refernces.genruntimeconfig.cache
+C:\Users\KennyWilson\source\repos\Refernces\obj\Debug\net6.0\ref\Refernces.dll
