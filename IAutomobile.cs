@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Refernces
 {
     /// <summary>
-    /// Tells what the code does
+    ///  Declares the IAutomobile object and tells how fast its going and how many wheels it has and the LicensePlate #
     /// </summary>
     internal interface IAutomobile
     {

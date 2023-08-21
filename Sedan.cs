@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Refernces
 {
     /// <summary>
-    /// Tells what the code does 
+    /// Sedan implement the IAutomobile
     /// </summary>
      class Sedan : IAutomobile
     {

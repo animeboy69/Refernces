@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            
            Sedan myFirstSedan = new Sedan(0);
             IAutomobile myAutomobile = myFirstSedan;
 

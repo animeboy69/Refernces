@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Refernces
 {
     /// <summary>
-    /// Tells what this code does
+    ///  This tells everything what the Truck is doing and tells the speed and tells how much wheels it has and the licnseplate and the weight
     /// </summary>
     class Truck : IAutomobile
     {
@@ -35,7 +35,9 @@ namespace Refernces
             }
         }
 
-
+        /// <summary>
+        ///  Tells what the Truck is doing and how fast its going and the LicensePlate number
+        /// </summary>
 
         public void Stringfly()
         {
