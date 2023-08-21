@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Refernces
 {
+    /// <summary>
+    /// Tells what the code does
+    /// </summary>
     internal interface IAutomobile
     {
         public double Speed { get; }
@@ -16,6 +19,6 @@ namespace Refernces
 
         public void Stringfly();
 
-
+        
     }
 }

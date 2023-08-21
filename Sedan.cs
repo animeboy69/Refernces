@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Refernces
 {
+    /// <summary>
+    /// Tells what the code does 
+    /// </summary>
      class Sedan : IAutomobile
     {
         public double Speed { get; private set; }
